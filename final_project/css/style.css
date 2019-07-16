@@ -1,0 +1,33 @@
+body {
+  background-color: #ffe680;
+  color: black;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1 {
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-style: bold;
+  color: white;
+  letter-spacing: 1px;
+}
+
+h2,h3 {
+  font-style: italic;
+  font-size: 15px;
+  color: red;
+}
+
+img {width:300px;
+border: 1px solid black;
+margin: 50px;
+align: center;
+}
+
+p {margin: 50px;
+  padding: 50px;
+}
